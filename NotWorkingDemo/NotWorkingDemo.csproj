@@ -7,7 +7,7 @@
         <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
         
         <PublishAot>true</PublishAot>
-        <TrimMode>copyused</TrimMode>
+        <TrimMode>partial</TrimMode>
         <PublishTrimmed>true</PublishTrimmed>
     </PropertyGroup>
 
